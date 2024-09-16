@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(161, 135, 164, 0.626);
+}
+
+.header {
+ color: rgb(196, 213, 230);  
+ background-color: rgba(167, 144, 152, 0.724); 
+ 
+}
+
+h2{
+    color:rgb(99, 112, 99);
+   border-bottom: rgb(220, 234, 232) dotted  3px ;
+   
+}
+
+.sectionH{
+    text-align: r;
+}
+p{
+   background-color: rgb(250, 249, 222);
+}
+
+p.caution{
+    color: rgb(150, 54, 54);
+}
+p.footer { 
+    background-color: rgb(242, 211, 220);
+}

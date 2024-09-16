@@ -1,0 +1,23 @@
+h1{
+    color: rgb(131, 113, 155);
+}
+
+h2{
+    color: rgb(63, 83, 70);
+}
+
+.Primavera{
+    background-color: rgb(252, 226, 239);
+}
+
+.Verano{
+    background-color: rgb(184, 220, 215);
+}
+
+.Otoño{
+    background-color: rgb(252, 222, 175);
+}
+
+.invierno{
+    background-color: rgb(236, 246, 249);
+}

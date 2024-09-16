@@ -1,0 +1,22 @@
+nav ul {
+    display: flex;
+    flex-direction: left;
+}
+
+nav ul li {
+    margin-left: 20px;
+    list-style: none;
+    padding: 10px 20px;
+}
+
+nav {
+    border-bottom: 1px solid lightcoral;
+}
+
+nav ul li a{
+    text-decoration: none;
+}
+
+nav ul li:hover {
+    background-color: pink;
+}

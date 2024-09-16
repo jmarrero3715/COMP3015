@@ -1,0 +1,19 @@
+h1{
+    color: brown;
+    font-size: 38pt;
+    background-color: pink ;
+ }
+
+ .green-text{
+     color: green;
+ }
+
+ .importante{
+     color: aliceblue;
+     background-color: salmon;
+     position: relative;
+     left: 25%;
+     right: 25%;
+     padding: 5%;
+     width: 50%;
+ }
